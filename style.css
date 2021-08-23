@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    background-image:url(c90c0c47c69d856a7d680c1ec8590de1.jpg);
+    background-repeat: no-repeat;
+background-size: 100%;  
+
+}
+#bigDiv{
+    margin:auto;
+    background-color:teal;
+    color: white;
+    width: 50%;
+    height: 85%;
+    padding:50px;
+}
+section{
+    display: flex;
+    justify-content: space-around;
+}
+img{
+    width: 200px;
+}
+h1{
+    font-size: 3em;
+}
+.button{
+    border-radius: 5px;
+}
+#shear{
+    width: 400px;;
+}
+main{
+    color: white;
+    background-color:teal;
+    height: 50%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
